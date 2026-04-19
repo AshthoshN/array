@@ -6,13 +6,13 @@ Subject: Advanced Java with J2EE (BCS405A)
 
 🔹 Program 1a - ArrayList and LinkedList Operations
 [Program](src/arrays/firsta.java)
-[output]()
+[output](1a.png)
 
 🔹 Program 1b - ArrayList Programs
-[Program]()
-[output]()
+[Program](src/arrays/firstb.java)
+[output](1b.png)
 
 🔹 Program 1c - LinkedList Programs
-[Program]()
-[output]()
+[Program](src/arrays/firstc.java)
+[output](1b.png)
 
